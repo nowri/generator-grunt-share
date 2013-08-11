@@ -20,7 +20,7 @@
 1. [Node.jsをインストール](http://nodejs.jp/nodejs.org_ja/docs/v0.10/)
 1. `sudo npm install -g yo grunt-cli bower`
 1.   プロジェクトテンプレートをダウンロード
-`sudo npm install https://github.com/dummy/generator-grunt-share -g`
+`sudo npm install -g generator-grunt-share`
 
 2. プロジェクトテンプレートをインストール
 `cd インストールしたいディレクトリ`  
