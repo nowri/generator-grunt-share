@@ -1,0 +1,30 @@
+{
+  "name": "generator-grunt-share",
+  "version": "1.0.0",
+  "description": "gruntfileを分割できるようになるgruntプロジェクトテンプレート",
+  "keywords": [
+  ],
+  "homepage": "",
+  "bugs": "",
+  "author": {
+    "name": "Kensuke.AMANO",
+    "email": "",
+    "url": ""
+  },
+  "main": "app/index.js",
+
+  "dependencies": {
+    "yeoman-generator": "~0.12.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.10.0"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}

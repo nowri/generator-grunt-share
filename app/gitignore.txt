@@ -1,0 +1,6 @@
+.*
+components/
+bower.json
+node_modules/
+release/
+!.gitignore
