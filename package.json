@@ -1,10 +1,10 @@
 {
   "name": "generator-grunt-share",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "gruntfileを分割できるようになるgruntプロジェクトテンプレート",
   "keywords": [
   ],
-  "homepage": "",
+  "homepage": "https://github.com/nowri/generator-grunt-share",
   "bugs": "",
   "author": {
     "name": "Kensuke.AMANO",
