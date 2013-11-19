@@ -1,6 +1,6 @@
 {
   "name": "generator-grunt-share",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "gruntfileを分割できるようになるgruntプロジェクトテンプレート",
   "keywords": [
   ],
